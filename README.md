@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! 👋 I'm Kiruthik Varshan K R
+🚀 Aspiring AI/ML Engineer & Full-Stack Developer
+I'm a passionate developer exploring the intersection of Machine Learning and Web Development. I love building intelligent applications and scalable web solutions using the MERN stack.
 
-<!--
-**kiruthik04/kiruthik04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Work On
+🤖 Machine Learning & AI – Predictive modeling, data analysis, and AI-powered applications.
+🌍 Web Development (MERN Stack) – Building dynamic, full-stack applications with modern UI/UX.
+🛠️ Tech Stack
+ML & AI: Python, Scikit-learn, TensorFlow, Pandas, Streamlit
+Web Dev: React, Node.js, Express.js, MongoDB, ShadCN, Vite
+Tools & Platforms: Git, Postman, AWS (Exploring ☁️)
+📌 Featured Projects
+📊 Air Quality Prediction System – Predicts AQI and its impact using ML.
+🎓 Academic Results Portal – A MERN stack app for managing student results.
+🏥 Cardiac Function Analysis – ML-based echocardiography analysis.
+🏫 Slot Booking System – College assessment scheduling platform.
+💡 Always open to collaborations, learning new tech, and building impactful projects!
