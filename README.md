@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack & ML Projects  <br>👯 I’m looking to collaborate on AI-powered web applications and full-stack projects<br>🤝 I’m looking for help with optimizing ML models  <br>🌱 I’m currently learning advanced React (ShadCN, Vite), and cloud computing <br>💬 Ask me about AI/ML, Web Development, and System Design <br>⚡ Fun fact I can spend hours debugging, only to realize it's a missing semicolon! 😅<br>
+🔭 I’m currently working on MERN Stack & ML Projects  <br>👯 I’m looking to collaborate on AI-powered web applications and full-stack projects<br>🤝 I’m looking for help with optimizing ML models  <br>🌱 I’m currently learning advanced React (ShadCN, Vite), and cloud computing <br>💬 Ask me about AI/ML, Web Development, and System Design <br>⚡ Fun fact I can spend hours debugging, only to realize it's a missing semicolon!😅<br>
 
 
 ## 🌐 Socials:
