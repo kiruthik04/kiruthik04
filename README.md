@@ -1,133 +1,96 @@
-<h1 align="center">Hi 👋, I'm Kiruthik Varshan K R</h1>
-<h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kiruthik%20Varshan%20K%20R&fontSize=60&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 
-# 💫 About Me:
-🔭 I’m currently working on:
+  <h3>🚀 AI/ML Enthusiast & Full-Stack Developer</h3>
 
-Jarvis: An intelligent AI Desktop Assistant capable of NLU-based system control, web scraping, and automation (Python, CustomTkinter, Selenium).
-Love, Rosie (Smart Restaurant): A full-stack restaurant management platform with QR ordering, admin dashboards, and seamless payment integration (MERN Stack).
-👯 I’m looking to collaborate on:
+  <p align="center">
+    <a href="https://linkedin.com/in/kiruthik04"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:kiruthicksathy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/kv_null_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  </p>
+</div>
 
-AI Agents & Automation Tools
-Scalable Full-Stack Applications
-🤝 I’m looking for help with:
+---
 
-Optimizing LLM latency and response handling for real-time assistants.
-🌱 I’m currently learning:
+### 💫 About Me
 
-Advanced React patterns (ShadCN, Vite)
-Cloud Infrastructure & Deployment
-💬 Ask me about:
-
-Building AI Assistants & Desktop Automation
-MERN Stack Architecture
-Web Scraping & Data Extraction
-⚡ Fun fact: I once spent hours debugging my AI assistant, only to realize it was waiting for me to give a command! 😅<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kv_null_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthik04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiruthicksathy@gmail.com) 
-
-# 💻 Tech Stack:
-<table align="center">
+<table border="0">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C
+    <td width="50%" valign="top">
+      <h4>🔭 Currently Working On</h4>
+      <ul>
+        <li><b>Jarvis:</b> Intelligent AI Desktop Assistant with NLU system control & automation.</li>
+        <li><b>Love, Rosie:</b> Full-stack Smart Restaurant platform with QR ordering & MERN logic.</li>
+      </ul>
+      <h4>👯 Looking to Collaborate</h4>
+      <ul>
+        <li>AI Agents & Automation Tools</li>
+        <li>Scalable Full-Stack Applications</li>
+      </ul>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" /><br>Qt
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" /><br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>Raspberry Pi
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
+    <td width="50%" valign="top">
+      <h4>🌱 Learning & Growth</h4>
+      <ul>
+        <li>Advanced React patterns (ShadCN, Vite)</li>
+        <li>Cloud Infrastructure & Deployment</li>
+      </ul>
+      <h4>🤝 Help Wanted</h4>
+      <ul>
+        <li>Optimizing LLM latency and real-time response handling.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiruthik04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kiruthik04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthik04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kiruthik04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> **💬 Ask me about:** Building AI Assistants, MERN Architecture, or Web Scraping!
+> 
+> **⚡ Fun fact:** I once spent hours debugging my AI assistant, only to realize it was waiting for me to give a command! 😅
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kiruthik04&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,css,html,kotlin,python,php,java,javascript&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,bootstrap,flask,nodejs,qt,tailwind&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=vite,figma,photoshop,tensorflow,git,github,raspberrypi,postman&perline=8" />
+</div>
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=kiruthik04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthik04&theme=tokyonight&hide_border=true&layout=compact" height="180px"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=kiruthik04&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔝 Contributions & Inspiration
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kiruthik04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=kiruthik04&icon=4&color=7aa2f7">
+    <img src="https://visitcount.itsvg.in/api?id=kiruthik04&icon=4&color=7aa2f7" />
+  </a>
+</div>
+
+<p align="center">
+  <font size="2">Proudly created with ✨ and GPRM</font>
+</p>
