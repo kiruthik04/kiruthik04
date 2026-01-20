@@ -2,7 +2,27 @@
 <h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack & ML Projects  <br>👯 I’m looking to collaborate on AI-powered web applications and full-stack projects<br>🤝 I’m looking for help with optimizing ML models  <br>🌱 I’m currently learning advanced React (ShadCN, Vite), and cloud computing <br>💬 Ask me about AI/ML, Web Development, and System Design <br>⚡ Fun fact I can spend hours debugging, only to realize it's a missing semicolon!😅<br>
+🔭 I’m currently working on:
+
+Jarvis: An intelligent AI Desktop Assistant capable of NLU-based system control, web scraping, and automation (Python, CustomTkinter, Selenium).
+Love, Rosie (Smart Restaurant): A full-stack restaurant management platform with QR ordering, admin dashboards, and seamless payment integration (MERN Stack).
+👯 I’m looking to collaborate on:
+
+AI Agents & Automation Tools
+Scalable Full-Stack Applications
+🤝 I’m looking for help with:
+
+Optimizing LLM latency and response handling for real-time assistants.
+🌱 I’m currently learning:
+
+Advanced React patterns (ShadCN, Vite)
+Cloud Infrastructure & Deployment
+💬 Ask me about:
+
+Building AI Assistants & Desktop Automation
+MERN Stack Architecture
+Web Scraping & Data Extraction
+⚡ Fun fact: I once spent hours debugging my AI assistant, only to realize it was waiting for me to give a command! 😅<br>
 
 
 ## 🌐 Socials:
