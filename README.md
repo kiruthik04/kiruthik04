@@ -70,7 +70,7 @@
 
 ### 🔥 Contribution Streak
 
-![Streak](./profile/streak.svg)
+![Streak](./streak.svg)
 
 ---
 
