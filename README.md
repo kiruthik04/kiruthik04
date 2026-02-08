@@ -61,23 +61,19 @@
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=kiruthik04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthik04&theme=tokyonight&hide_border=true&layout=compact" height="180px"/></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=kiruthik04&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 
 ---
+
+### 🔥 Contribution Streak
+
+![Streak](./profile/streak.svg)
+
+---
+
 
 ### 🔝 Contributions & Inspiration
 
@@ -87,12 +83,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=kiruthik04&icon=4&color=7aa2f7">
-    <img src="https://visitcount.itsvg.in/api?id=kiruthik04&icon=4&color=7aa2f7" />
-  </a>
-</div>
 
 <p align="center">
   <font size="2">Proudly created with ✨ and GPRM</font>
