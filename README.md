@@ -63,14 +63,14 @@
 
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)  
-![Top Langs](./profile/top-langs.svg)  
+![Stats](https://kiruthik04.vercel.app/stats/kiruthik04)  
+![Top Langs](https://kiruthik04.vercel.app/languages/kiruthik04)  
 
 ---
 
 ### 🔥 Contribution Streak
 
-![Streak](./streak.svg)
+![Streak](https://kiruthik04.vercel.app/streak/kiruthik04)
 
 ---
 
