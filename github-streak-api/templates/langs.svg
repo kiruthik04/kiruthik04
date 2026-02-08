@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: orange; filter: url(#glow); }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7; }
+    .lang-percent { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: white; }
+    .progress-bg { fill: #333; rx: 3; }
+    .progress-bar { rx: 3; filter: url(#glow); }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#141321" stroke="#e4e2e2" rx="4.5"/>
+  <text x="20" y="35" class="header">Top Languages</text>
+
+  <!-- Placeholder for Languages, will be dynamically generated -->
+  <g transform="translate(20, 60)" id="lang-list">
+     {{languages}}
+  </g>
+</svg>

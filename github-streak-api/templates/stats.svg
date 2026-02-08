@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes fadein { 0% { opacity: 0; } 100% { opacity: 1; } }
+    .stat-label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7; }
+    .stat-value { font: 800 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: white; filter: url(#glow); }
+    .icon { fill: orange; filter: url(#glow); }
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: orange; filter: url(#glow); }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#141321" stroke="#e4e2e2" rx="4.5"/>
+  
+  <text x="25" y="35" class="header">GitHub Stats</text>
+
+  <!-- Total Stars -->
+  <g transform="translate(25, 70)">
+    <text x="30" y="15" class="stat-label">Total Stars</text>
+    <text x="30" y="40" class="stat-value">{{totalStars}}</text>
+    <!-- Simple Star Icon -->
+    <path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z" transform="scale(0.8)" class="icon"/>
+  </g>
+
+  <!-- Total Commits -->
+  <g transform="translate(200, 70)">
+    <text x="30" y="15" class="stat-label">Total Commits</text>
+    <text x="30" y="40" class="stat-value">{{totalCommits}}</text>
+     <!-- Simple Commit Icon (Git commit) -->
+    <circle cx="10" cy="10" r="4" stroke="orange" stroke-width="2" fill="none" class="icon" />
+    <line x1="10" y1="0" x2="10" y2="6" stroke="orange" stroke-width="2" class="icon" />
+    <line x1="10" y1="14" x2="10" y2="20" stroke="orange" stroke-width="2" class="icon" />
+  </g>
+
+  <!-- Total PRs -->
+  <g transform="translate(25, 140)">
+    <text x="30" y="15" class="stat-label">Total PRs</text>
+    <text x="30" y="40" class="stat-value">{{totalPRs}}</text>
+     <!-- PR Icon -->
+    <path d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7c0-.55-.45-1-1-1S5 1.45 5 2v1H2.5c-.28 0-.5.22-.5.5v6c0 .28.22.5.5.5H5v3.28c0 .28.22.5.5.5h6c.28 0 .5-.22.5-.5z" transform="scale(0.8)" class="icon"/>
+  </g>
+
+  <!-- Total Issues -->
+  <g transform="translate(200, 140)">
+    <text x="30" y="15" class="stat-label">Total Issues</text>
+    <text x="30" y="40" class="stat-value">{{totalIssues}}</text>
+    <!-- Issue Icon -->
+    <path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z" transform="scale(1.2)" class="icon"/>
+  </g>
+
+</svg>
