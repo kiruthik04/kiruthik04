@@ -111,6 +111,13 @@ app.get('/languages/:username', async (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
-});
+
+// Export the app for Vercel serverless functions
+module.exports = app;
+
+// Only run the server if this file is executed directly (local dev)
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`Server running on http://localhost:${PORT}`);
+    });
+}
